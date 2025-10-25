@@ -1,0 +1,12 @@
+# Python Virtual Environment Manager Dependencies
+# These are the core dependencies needed for the tool to work
+
+# Core Python packages (usually included with Python)
+# virtualenv>=20.0.0
+# pipenv>=2023.0.0
+# poetry>=1.0.0
+
+# Note: The tool will automatically install these when needed
+# You can also install them manually:
+# pip install virtualenv pipenv
+# For poetry, use the official installer: https://python-poetry.org/docs/#installation
